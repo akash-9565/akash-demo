@@ -1,2 +1,2 @@
 # akash-demo
-this is my demo class
+This is my demo class.
